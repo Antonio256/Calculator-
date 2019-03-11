@@ -1,0 +1,11 @@
+*{
+  margin: 20px;
+  padding: 20px;
+}
+.wrapper{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background-color: #1c334a;
+  padding: 1em;
+  border: #333 5px solid
+}
